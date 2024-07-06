@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "pahaolam",
+        "projectKey": "PAHaolam_AIO_Exercise"
+    }
+}
